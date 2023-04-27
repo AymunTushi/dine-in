@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Cheese Cake",
+        "price": "1200",
+        "description": "Cheesecake with a buttery graham cracker crust and rich, dense filling made from cream cheese, eggs and so on",
+        "img": "https://i.ibb.co/Btt8Cms/cheese-cake.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Brownies",
+        "price":"1200",
+        "description": "Made with cocoa powder and chocolate chips.These homemade brownies are fudgy, gooey, super chocolaty.",
+        "img": "https://i.ibb.co/0JHVBxp/brownies.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Chocolate Cake",
+        "price": "800",
+        "description": "Customisable chocolate cake can be predered with dark chocolate or normal chocolate,you can suggest the design.",
+        "img": "https://i.ibb.co/kXj40Mx/chocolate-cake.jpg"
+    }
+
+]

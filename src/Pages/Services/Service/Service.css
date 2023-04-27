@@ -1,0 +1,17 @@
+.single-service{
+    box-sizing: border-box;
+width: 70%;
+border: solid #f1eef000 1px;
+border-radius: 8px;
+margin-left: 35px;
+box-shadow: 1px 1px 1px 1px #969292f6
+}
+
+.image{
+    transition: transform 250ms;
+}
+
+.image:hover {
+    transform: translateY(-10px);
+  cursor: pointer;
+}
